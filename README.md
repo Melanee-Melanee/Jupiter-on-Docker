@@ -13,3 +13,8 @@ Here's a one liner to get you up and running with Jupyter on any computer with D
 ```
 docker run -it -p 8888:8888 --rm -e JUPYTER_ENABLE_LAB=yes -v ~/Github/Python/:/home/jovyan/work jupyter/datascience-notebook
 ```
+Useful links:
+
+https://hub.docker.com/r/jupyter/datascience-notebook/
+
+https://medium.com/codex/how-to-set-up-and-run-python-data-science-development-environment-with-jupyter-on-docker-17e04e11d6c
