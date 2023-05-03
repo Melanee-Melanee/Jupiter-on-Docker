@@ -18,3 +18,5 @@ Useful links:
 https://hub.docker.com/r/jupyter/datascience-notebook/
 
 https://medium.com/codex/how-to-set-up-and-run-python-data-science-development-environment-with-jupyter-on-docker-17e04e11d6c
+
+https://github.com/jupyter/docker-stacks
